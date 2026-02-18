@@ -1,9 +1,7 @@
 <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e4c36cb9-892b-4972-97fa-a28d868ce780/width=1800/Capture d’écran 2024-10-27 à 00.52.33.jpeg" />
 
 
-🔭 Recently completed my [school 42](https://42.fr/) curriculum.
-
-👾 Founder of [42GamDev](https://discord.gg/w9KPeC5uYa), a Club of [school 42](https://42.fr/).
+📚 [School 42](https://42.fr/) Alumni.
 
 📜 Check out [my certificates](https://www.credly.com/users/raphael-bourgeat) !
 
@@ -11,6 +9,7 @@
 
 | Skills | Projects |
 | --- | --- |
+| ![Rust](https://img.icons8.com/?size=42&id=U41Than0pWOW&color=ffffff) ![NextJS](https://img.icons8.com/?size=42&id=MWiBjkuHeMVq) ![Docker](https://img.icons8.com/?size=42&id=cdYUlRaag9G9) | [An alternative to GitHub, Hugging Face, and Docker Hub. One single forge for Code, AI, and Data.](https://github.com/rbourgeat/plectr) |
 | ![Python](https://img.icons8.com/?size=42&id=13441) ![JS](https://img.icons8.com/?size=42&id=wPohyHO_qO1a) ![Docker](https://img.icons8.com/?size=42&id=cdYUlRaag9G9) | [Role play app using llm & diffusion models](https://github.com/rbourgeat/ImpAI) |
 | ![Python](https://img.icons8.com/?size=42&id=ezj3zaVtImPg) ![JS](https://img.icons8.com/?size=42&id=108784) | [Refactor your code in 1 click (AI Vscode Plugin)](https://github.com/rbourgeat/refacto) |
 | ![Cpp](https://img.icons8.com/?size=42&id=40669) <img src="https://cdn.fosstodon.org/accounts/avatars/109/643/629/499/755/890/original/0210aa2f69b05ebc.png" alt="Vulkan" width="42" height="42"> | [Basic GPU rendering with Vulkan (Mac/Linux)](https://github.com/rbourgeat/scop) |
