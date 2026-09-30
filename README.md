@@ -1,24 +1,8 @@
-<img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e4c36cb9-892b-4972-97fa-a28d868ce780/width=1800/Capture d’écran 2024-10-27 à 00.52.33.jpeg" />
-
-
-
-
-
 📚 [School 42](https://42.fr/) Alumni.
 
 📜 Check out [my certificates](https://www.credly.com/users/raphael-bourgeat) !
 
 👨🏼‍💻 Solo Projects:
-
-<p align="left">
-  <a href="https://apps.apple.com/fr/app/rpz/id6789939865">
-    <img src="https://github.com/user-attachments/assets/3bfb1d6c-dcdc-454b-9083-5f6f565abc1e" width="42%" alt="Aperçu RPZ" />
-  </a>
-  <br />
-  <a href="https://apps.apple.com/fr/app/rpz/id6789939865">
-    <b>Download RPZ on the App Store for FREE !</b>
-  </a>
-</p>
 
 | Skills | Projects |
 | --- | --- |
